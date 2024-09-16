@@ -1,4 +1,4 @@
-## Hand tracking and Passthrough with Unreal Engine 5.4 and Quest 3 and 2.
+## Hand tracking and Passthrough with Unreal Engine 5.4 and Quest 3, 2.
 
 Video sources used: 
 
