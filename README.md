@@ -5,6 +5,8 @@ Video sources used:
 ### **GDXR:**
  #### **Hand Tracking With Depth Occlusion In Unreal Engine 5.3 For Meta Quest 2, 3, Pro**
       https://www.youtube.com/watch?v=hZu0Rg_1hyE&ab_channel=GDXR
+ #### **Meta XR Hand Tracking Part 1 - How To Set Up Hand Tracking In UE5**
+      https://www.youtube.com/watch?v=HpVdLXc96a4&ab_channel=GDXR
       
   #### **Setting Up Meta XR Passthrough For AR in Unreal Engine**
       https://www.youtube.com/watch?v=8bNBgoL6TGA&ab_channel=GDXR
