@@ -13,6 +13,7 @@ Video sources used:
 ### Meta XR plugin - 
    Epic Games marketplace -> install
    Unreal engine -> Edit -> Plugins -> Meta XR -> enable -> Restart Engine
+   ## If does not work - https://developers.meta.com/horizon/downloads/package/unreal-engine-5-integration
    
   ### Meta Quest Link App
    -> Settings -> Beta -> Developer Runtime Features - Enable
