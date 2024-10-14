@@ -13,7 +13,9 @@ Video sources used:
 ### Meta XR plugin - 
    Epic Games marketplace -> install
    Unreal engine -> Edit -> Plugins -> Meta XR -> enable -> Restart Engine
-   ## If does not work - https://developers.meta.com/horizon/downloads/package/unreal-engine-5-integration
+   ## If does not work - Uninstall Leap Motion app or other app that deal with hand tracking src: 
+   [https://developers.meta.com/horizon/downloads/package/unreal-engine-5-integration](https://www.youtube.com/watch?v=qMf-Lf1iG7c&ab_channel=GDXR)
+
    
   ### Meta Quest Link App
    -> Settings -> Beta -> Developer Runtime Features - Enable
