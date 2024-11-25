@@ -24,5 +24,27 @@ Video sources used:
 ## Unreal Engine
   -> Edit -> Project Settings -> Hand Tracking Support -> Hands Only
    
-   
+
+
+## Passtrough
+src: https://youtu.be/hZu0Rg_1hyE?si=OV_x4jtGaq9TB94L
+-> Project Settings -> Rendering -> Postprocessing -> Enable alpha channel support ... -> Allow through tonemapper
+-> Project Settings -> Meta XR -> Mobile -> Supported Meta Quest devices -> + x3
+                              -> Composite Depth
+                              -> Hand Tracking Support -> Hands Only
+                              -> Hand Tracking Frequency -> HIGH
+                              -> Hand Tracking Version -> V2
+                              -> Passtrough enabled
+                              -> Anchor Support
+                              -> Anchor Sharing
+                              -> Scene Support
+
+                              -> Experimental -> Support Experimental Features - True
+                             -> General -> Control Pose Alignment -> Aim
+
+Delete background, walls
+
+ 
+                              
+
 
